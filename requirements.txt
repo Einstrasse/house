@@ -1,6 +1,6 @@
 flask==2.0.3
 colored
-frida
+frida==16.3.3
 jinja2
 requests
 flask-socketio==4.3.2
