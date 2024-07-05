@@ -24,7 +24,7 @@ from houseStatic import *
 from houseGlobal import house_global, socketio, random_token
 # from plugin import log_r_value
 # from houseGlobal import env_html, enum_html, intercepts_html, preload_html, hooks_html, monitor_html
-from _frida import ProcessNotFoundError
+from frida._frida import ProcessNotFoundError
 import traceback, IPython
 
 
